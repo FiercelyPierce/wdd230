@@ -1,15 +1,9 @@
 @media (min-width: 60em){
     main {
-        display: grid;
         grid-template-columns: 1fr 1fr 1fr;
     }
 
-    .repetition {
-        margin-right: 1rem;
-    }
-
     .contrast {
-        margin-left: 1rem;
         grid-column: span 1;
     }
 

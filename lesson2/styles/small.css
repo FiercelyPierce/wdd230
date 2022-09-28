@@ -1,5 +1,4 @@
 body {
-    font-family: 'Roboto', sans-serif;
     font-family: 'Roboto Slab', serif;
     margin: 0;
 }
@@ -26,7 +25,7 @@ section h2 {
 }
 
 section img {
-    max-width: 92%;
+    width: 90%;
 }
 
 section h2, 
