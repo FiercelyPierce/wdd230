@@ -1,0 +1,18 @@
+@media (min-width: 32.5em) {
+    main {
+        display: grid;
+        grid-template-columns: 1fr 1fr;
+    }
+
+    .repetition {
+        margin-right: 0.5rem;
+    }
+
+    .visual {
+        margin-left: 0.5rem;
+    }
+
+    .contrast {
+        grid-column: span 2;
+    }
+}
